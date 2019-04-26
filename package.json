@@ -1,0 +1,19 @@
+{
+  "name": "serverless-chatroom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dynogels": "^9.0.0",
+    "joi": "^14.3.1",
+    "serverless-plugin-typescript": "^1.1.7",
+    "serverless-websockets-plugin": "^1.0.0",
+    "typescript": "^3.4.5"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.24",
+    "@types/dynogels": "^9.0.0",
+    "@types/joi": "^14.3.3",
+    "serverless": "^1.41.1"
+  }
+}
